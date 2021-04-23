@@ -1,4 +1,5 @@
 # Comparison of accuracies in Clustering Algorithms
+Comparison of different clustering models to categorise dataset to determine whether a user purchased a particular product or not.
 
 ## Gaussian Mixture Model
 Gaussian Mixture Models (GMMs) assume that there are a certain number of Gaussian distributions, and each of these distributions represent a cluster. Hence, a Gaussian Mixture Model tends to group the data points belonging to a single distribution together.

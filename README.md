@@ -1,4 +1,4 @@
-# Comparison of accuracies in Clustering Algorithms
+# Comparison of accuracies of Classification Algorithms
 Comparison of different clustering models to categorise dataset to determine whether a user purchased a particular product or not.
 
 ## Gaussian Mixture Model
